@@ -57,7 +57,7 @@ Es fácil actualizar tu versión de windows 10 siguiendo estos pasos
 
 1. Ejecutar **win**
    <p align="center">
-    <img src="./images/Update1.png" />
+    <img src="./images/Update1.jpg" />
    </p>
 2. Ir a la configuración 
    <p align="center">
