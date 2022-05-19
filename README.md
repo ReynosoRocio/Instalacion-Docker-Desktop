@@ -65,7 +65,7 @@ Es fácil actualizar tu versión de windows 10 siguiendo estos pasos
    </p>
 3. Se abrirá Windows Update, aquí debemos dirigirnos al botón *Buscar actualizaciones*.
    <p align="center">
-    <img src="./images/performance.jpg" />
+    <img src="./images//Update3.png" />
    </p>
    Presionamos y debe empezar a buscar las actualizaciones disponibles para nuestro sistema, en caso de que 
    las haya podemos empezar con su descarga y posterior instalación, nos pedirá reiniciar.
