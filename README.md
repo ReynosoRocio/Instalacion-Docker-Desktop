@@ -51,6 +51,9 @@ Las instalaciones son diferentes entre Windows Pro Edition y Windows Home Editio
     <p align="center">
      <img src="./images/info_sym.jpg" />
     </p>
+    
+## ¿Como actualizar la versión del sistema?
+
 
 ###  2.2. <a name='VerificarVirtualizacionWindows'></a>Verificar el estado de la virtualización en Windows
 Ahora debemos verificar información respecto a la virtualización, especificamente debes ver si nuestro sistema operativo tiene habilitada la virtualización. Para comprobar esto, sigue los siguientes pasos. 
