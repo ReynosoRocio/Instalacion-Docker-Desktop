@@ -53,6 +53,22 @@ Las instalaciones son diferentes entre Windows Pro Edition y Windows Home Editio
     </p>
     
 ## ¿Como actualizar la versión del sistema?
+Es fácil actualizar tu versión de windows 10 siguiendo estos pasos
+
+1. Ejecutar **win**
+   <p align="center">
+    <img src="./images/Update1.png" />
+   </p>
+2. Ir a la configuración 
+   <p align="center">
+    <img src="./images/Update2.png" />
+   </p>
+3. Se abrirá Windows Update, aquí debemos dirigirnos al botón *Buscar actualizaciones*.
+   <p align="center">
+    <img src="./images/performance.jpg" />
+   </p>
+   Presionamos y debe empezar a buscar las actualizaciones disponibles para nuestro sistema, en caso de que 
+   las haya podemos empezar con su descarga y posterior instalación, nos pedirá reiniciar.
 
 
 ###  2.2. <a name='VerificarVirtualizacionWindows'></a>Verificar el estado de la virtualización en Windows
