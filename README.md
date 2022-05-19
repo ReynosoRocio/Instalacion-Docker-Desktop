@@ -90,9 +90,10 @@ Ahora debemos verificar información respecto a la virtualización, especificame
    <p align="center">
     <img src="./images/option_virtualization.jpg" />
    </p>
-**NOTA:** Si no tienes habilitada la virtualización, te sugiero buscar un tutorial para activarlo, debido a que los métodos para activarla varia dependiendo del equipo, es decir, dependiendo del modelo y marca de la computadora. 
+**NOTA:** Si no tienes habilitada la virtualización, te sugiero buscar un tutorial para activarlo, debido a que los métodos para activarla varia dependiendo del equipo, es decir, dependiendo del modelo y marca de la computadora, y si es armada busca las instrucciones concretas para tu tarjeta madre. 
 
-###  2.2. <a name='VerificarMetodo'></a>Verificar por cual método instalar Docker Desktop
+
+###  2.3. <a name='VerificarMetodo'></a>Verificar por cual método instalar Docker Desktop
 
 Ahora ya conocemos la información de nuestro sistema operativo, esto nos dará la pauta para poder evaluar si cumplimos con lo necesario para instalar Docker Desktop, así mismo para definir que método utilizar. Las condiciones que debemos tener son las que se presentan en la siguiente tabla. 
 
